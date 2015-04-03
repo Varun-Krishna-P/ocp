@@ -30,6 +30,7 @@ public class TestAnimal{
 		a2.eat();
 		Animal a3 = new Monkey();
 		a3.eat();
+		//You can't call deseMe on Animal type because the Animal class doesn't have that method
 		//a3.descMe();
 		Monkey m = new Monkey();
 		m.eat();

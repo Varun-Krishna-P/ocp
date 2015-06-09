@@ -1,0 +1,1 @@
+package ch02;//import ch02.Frog3.*;class TestFrog3{	public static void main(String[] args) {		new Frog3();		new Frog3();		new Frog3();		System.out.println("frogCount: "+Frog3.frogCount);			}}

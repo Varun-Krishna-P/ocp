@@ -1,0 +1,1 @@
+package ch02;class Frog2{	int frogCount = 0;	public Frog2(int s){		frogCount = s;	}	public int getFrogSize(){		return frogCount;	}	public static void main(String[] args) {		Frog2 frog = new Frog2(20);		System.out.println("frogCount: "+frog.getFrogSize());			}}

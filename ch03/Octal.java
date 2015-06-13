@@ -1,0 +1,1 @@
+package ch03;class Octal{	public static void main(String[] args) {		int six = 06;		int seven = 07;		int eight = 010;		int fiftySix = 074;		System.out.println("What: "+fiftySix);			}}

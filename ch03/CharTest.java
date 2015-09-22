@@ -1,0 +1,1 @@
+package ch03;class CharTest{	static char value = 'a';	public static void main(String[] args) {		switch(value){			case 'a': System.out.println("A");					  break;			case 'b':	System.out.println("B");						break;			case 'c':	System.out.println("C");						break;			default : System.out.println("Nothing to show");						break;					}	}}
